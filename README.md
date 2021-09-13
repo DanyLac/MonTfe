@@ -1,2 +1,11 @@
 # MonTfe
-Avancé tout au long de mon projet TFE
+
+Sur quel plateforme?
+Pour le moment ça sera dévellopez uniquement sur Android peut etre a l avenir sur ios.
+
+le idk:
+Android studio
+
+Language:
+Java pour le coté logique
+xml pour le coté design
