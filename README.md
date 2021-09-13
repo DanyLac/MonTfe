@@ -9,3 +9,18 @@ Android studio
 Language:
 Java pour le coté logique
 xml pour le coté design
+
+Nom de l appli:
+Pour le moment QuizFight
+
+Logo:
+Pas encore trouver
+
+Objectif principal de l appli:
+-créer un jeux qui va comprendre un boss et des question en fonction des bonne reponses cela infligera un certain nombre de dégat au boss et inversément si une mauvaise réponse cela nous infligera des dégat
+
+autres fonctionnalité:
+-Créer un login 
+-Faire choisir un avatar au lancement
+-Faire plusieur théme de question
+-créer plusieur map
