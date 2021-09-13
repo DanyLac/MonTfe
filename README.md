@@ -24,3 +24,4 @@ autres fonctionnalité:
 -Faire choisir un avatar au lancement
 -Faire plusieur théme de question
 -créer plusieur map
+-Faire du stuff qui infligera plus de dégat
