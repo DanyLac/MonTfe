@@ -2,4 +2,6 @@ Objectif:
 -créer la partie 1 de l app en xml
 -faire le design de la partie 4 de l app en xml
 -en appuyan sur play cela raméne a la partie 4 
--sur la partie 4 faire en sorte que quand je clique sur le choix 1 ça me marque bonne réponse et que ça ajoute 1 aux compteur
+-sur la partie 4 faire en sorte que quand je clique sur le choix 1 ça me marque bonne réponse et ou mauvaise réponse
+-créer les barre de vie et les configurer pour le boss et Nous
+-Si gagner ramener a la page gagnante/Si perdant ramener a la page perdante
